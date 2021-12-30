@@ -5,4 +5,8 @@ chicken
 pasta
 
 
+beans
+pizza
+
+
 thank you :)
