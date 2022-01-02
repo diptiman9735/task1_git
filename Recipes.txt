@@ -15,3 +15,5 @@ done my changes
 
 final copy
 
+I am adding these things for git tutorial
+
